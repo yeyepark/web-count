@@ -13,7 +13,8 @@ images = [
     "cloud-05.png",
     "docker_logo.png",
     "fastcampus.png",
-    "k8s_logo.png"
+    "k8s_logo.png",
+    "ktds.png"
 ]
 
 @app.route('/')
